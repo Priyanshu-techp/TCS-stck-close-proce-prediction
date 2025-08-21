@@ -1,4 +1,4 @@
-# Laptop price analysis and price prediction
+# TCS close price prediction
 This project builds a machine learning model to predict TCS close price. It involves data preprocessing, save piple line data, and save clean data for model training, evaluation, create a pipeline and Streamlit deployment.
 
 ---
@@ -88,4 +88,5 @@ To predict TCS stock close price.
 Diploma in Automation & Robotics  
 Aspiring Data Scientist  
 [LinkedIn Profile](https://www.linkedin.com/in/priyanshu-pandey-672767320)
+
 
